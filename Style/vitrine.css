@@ -1,0 +1,22 @@
+font-family: nasalization;
+        src: url("nasalization-rg.ttf");
+        font-size: 40px;
+        background: #2e2f30;
+        color: #27d1ff;
+        text-align: center
+
+body
+{
+font-family: open+sans;src: url("OpenSans-Light.ttf");
+font-size: 14%;
+width: 810px;
+text-align: center }
+
+header 
+{ 
+font-family: open+sans;src: url("OpenSans-Light.ttf");
+background-color: #f2f2f2;
+height: 150px;
+background-image: url("texture-header.jpg");
+}
+h1
